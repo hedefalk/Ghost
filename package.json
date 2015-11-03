@@ -22,7 +22,7 @@
     "test": "grunt validate --verbose"
   },
   "engines": {
-    "node": "~0.10.0 || ~0.12.0",
+    "node": "*",
     "iojs": "~1.2.0"
   },
   "dependencies": {
